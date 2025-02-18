@@ -13,7 +13,7 @@ const WelcomePage = () => {
           Where Innovation Meets Elegance
         </p>
         <button className="btn btn-success btn-lg animate__animated animate__fadeIn">
-          Get Started
+          Test Me
         </button>
       </div>
     </div>
